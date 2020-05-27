@@ -1,0 +1,32 @@
+Event ID,Event time,User name,Event name,Resource type,Resources,AWS access key,AWS region,Error code,Source IP address
+2e7bd645-1f09-4903-8e5b-cc5de5a67ab2,"2020-05-13, 04:52:01 PM",root,ConsoleLogin,,,,us-east-1,,115.98.101.114
+2f384573-d1a6-4155-8593-d6850caafa26,"2020-05-13, 04:51:52 PM",root,ConsoleLogin,,,,us-east-1,,115.98.101.114
+1efc6e25-6b37-4239-87ba-8a8f965ae0dd,"2020-05-08, 01:25:16 PM",root,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""s3crr_for_abhind_to_abhind-repli""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPAVC5CW7ML6DBC6JEBQ""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::349844208407:policy/service-role/s3crr_for_abhind_to_abhind-repli""}]",,us-east-1,,115.98.238.246
+cac4eb72-1322-42e2-9b42-074315f4d3d7,"2020-05-08, 01:25:16 PM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::349844208407:policy/service-role/s3crr_for_abhind_to_abhind-repli""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""s3crr_role_for_abhind_to_abhind-repli""}]",,us-east-1,,115.98.238.246
+e851a8a1-252a-47bc-90f2-51b91c79f3a9,"2020-05-08, 01:25:15 PM",root,CreateRole,,,,us-east-1,,115.98.238.246
+dab18a30-4902-4654-841d-742af6e252b2,"2020-05-08, 01:25:13 PM",root,PutBucketVersioning,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhind-repli""}]",,ap-south-1,,115.98.238.246
+02ee907b-10a7-4a3e-9211-145d4a156b08,"2020-05-08, 01:25:11 PM",root,CreateBucket,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhind-repli""}]",,ap-south-1,,115.98.238.246
+8b3b4bfa-ca81-49f0-a74d-243a445847f7,"2020-05-08, 01:14:04 PM",root,DeleteBucket,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhishek-repli""}]",,ap-south-1,,115.98.238.246
+047564e7-a49f-4f82-b7d1-3285933bb0c3,"2020-05-08, 01:01:35 PM",root,ConsoleLogin,,,,us-east-1,,115.98.238.246
+7dbdcd18-fe48-46af-a3c1-6f6f7c1f89b2,"2020-05-08, 12:23:49 PM",root,PutBucketPublicAccessBlock,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhishek-repli""}]",,ap-south-1,,115.98.238.246
+58992fff-6344-425b-a9ac-4e4c91a1a40b,"2020-05-08, 12:21:42 PM",root,PutBucketPublicAccessBlock,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhishek-repli""}]",,ap-south-1,,115.98.238.246
+e1ad2f7c-09ee-4aa3-84b4-b359639fb4ec,"2020-05-08, 12:20:16 PM",root,PutBucketVersioning,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhishek-repli""}]",,ap-south-1,,115.98.238.246
+a413a22c-cd5d-4949-9964-5b8bf29f5e0f,"2020-05-08, 12:13:11 PM",root,CreatePolicy,,,,us-east-1,InternalFailure,115.98.238.246
+cf34bbfa-8e7e-4564-8e3f-3a2678519ab6,"2020-05-08, 12:13:09 PM",root,PutBucketVersioning,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhishek-repli""}]",,ap-south-1,,115.98.238.246
+ea334ee7-3b3d-4b38-8311-98bbca20ce90,"2020-05-08, 12:13:07 PM",root,CreateBucket,S3 Bucket,"[{""resourceType"":""AWS::S3::Bucket"",""resourceName"":""abhishek-repli""}]",,ap-south-1,,115.98.238.246
+b5f91e32-5b77-4989-811f-de603c8418bc,"2020-05-08, 10:20:15 AM",root,ConsoleLogin,,,,us-east-1,,115.98.238.246
+700f91b4-6f03-49ea-b492-68dfca0e5503,"2020-05-07, 07:39:15 PM",root,ConsoleLogin,,,,us-east-1,,115.98.239.61
+12d9c846-8afd-4c2a-b64a-7077dd1e90bc,"2020-05-06, 12:20:58 PM",root,ConsoleLogin,,,,us-east-1,,115.98.228.251
+5c6c4977-dc84-445d-9b8b-959c6340db4b,"2020-05-06, 12:48:57 AM",root,ConsoleLogin,,,,us-east-1,,115.98.21.119
+8eea19da-9343-4aa5-9b06-cdbb7b0ce96d,"2020-05-05, 12:36:22 AM",root,ConsoleLogin,,,,us-east-1,,223.227.28.103
+a00c3e6b-da2e-45b7-9195-a654659d3823,"2020-05-03, 06:25:48 PM",root,ConsoleLogin,,,,us-east-1,,115.98.196.219
+bd4c8328-6087-42a5-ba01-1c785acc24ff,"2020-05-03, 12:32:00 PM",root,ConsoleLogin,,,,us-east-1,,115.98.196.219
+9f13b962-c6be-4635-8043-3784157e9281,"2020-05-03, 08:15:12 AM",root,ConsoleLogin,,,,us-east-1,,60.243.186.158
+9f56e3a1-7467-4449-8e7d-7797d68a3959,"2020-05-02, 09:49:21 AM",root,ConsoleLogin,,,,us-east-1,,60.243.232.232
+b84806f0-c33b-4095-9c40-0d103bd199b3,"2020-05-01, 02:24:56 PM",root,ConsoleLogin,,,,us-east-1,,115.98.181.136
+b45dd9e1-ce1a-41ef-aa2e-db2cf67e39f9,"2020-05-01, 02:24:38 PM",root,PasswordRecoveryCompleted,,,,us-east-1,,223.227.28.103
+197cfe5e-ec48-4a5f-87a4-8f661e0fcc27,"2020-05-01, 02:23:01 PM",root,PasswordRecoveryRequested,,,,us-east-1,,115.98.181.136
+a72e805b-991a-474e-9667-88c0c2cb2c7d,"2020-05-01, 02:21:43 PM",root,ConsoleLogin,,,,us-east-1,,115.98.181.136
+883ad61d-e88f-48a5-92a0-43bcfd17febd,"2020-03-30, 06:15:33 PM",root,ConsoleLogin,,,,us-east-1,,60.243.233.184
+bd77089f-e575-4a76-8a5a-0db40a3e3d7b,"2020-03-29, 05:26:06 PM",root,ConsoleLogin,,,,us-east-1,,60.243.232.180
+0fa2bdfa-125b-4d58-82f2-10093be445e2,"2020-03-29, 05:25:44 PM",root,ConsoleLogin,,,,us-east-1,,60.243.232.180
